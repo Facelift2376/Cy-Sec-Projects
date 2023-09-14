@@ -1,0 +1,6 @@
+dnspython
+whois
+requests
+sys
+argparse
+socket
